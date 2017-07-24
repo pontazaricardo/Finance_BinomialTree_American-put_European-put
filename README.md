@@ -1,1 +1,18 @@
 # Finance_BinomialTree_American-put_European-put
+
+This is an example of a program that creates a binomial tree to calculate the prices of a standard European put and an American put (assuming it can be exercised only in the last quarter of the option's life).
+
+## INPUTS AND OUTPUTS
+1. **Inputs:** *S* (stock price at time = 0), *X* (strike price), *s* (annual volatility), *t* (maturity), *n* (the number of periods, a multiple of 4), *d* (continuous annualized dividend yield), and *r* (interest rate).
+2. **Output:** Both European put's and Amercian put's value. 
+
+## USAGE
+In MatLab, just run the given file.
+
+## EXAMPLE
+```
+calculateChange(10,60,1)
+```
+suppose *S* = 100, *X* = 95, *s* = 0.4, *t* = 1, *n* = 1000, *d* = 0.02, and *r* = 0.06. 
+1. The European option price is about 10.9611.
+2. The American option price is about 11.2128.
