@@ -10,9 +10,6 @@ This is an example of a program that creates a binomial tree to calculate the pr
 In MatLab, just run the given file.
 
 ## EXAMPLE
-```
-calculateChange(10,60,1)
-```
-suppose *S* = 100, *X* = 95, *s* = 0.4, *t* = 1, *n* = 1000, *d* = 0.02, and *r* = 0.06. 
+Suppose *S* = 100, *X* = 95, *s* = 0.4, *t* = 1, *n* = 1000, *d* = 0.02, and *r* = 0.06. 
 1. The European option price is about 10.9611.
 2. The American option price is about 11.2128.
