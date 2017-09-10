@@ -1,5 +1,4 @@
 # Finance_BinomialTree_American-put_European-put
-
 This is an example of a program that creates a binomial tree to calculate the prices of a standard European put and an American put (assuming it can be exercised only in the last quarter of the option's life).
 
 ## INPUTS AND OUTPUTS
