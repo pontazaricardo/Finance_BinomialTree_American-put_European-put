@@ -3,6 +3,8 @@
 This is an example of a program that creates a binomial tree to price a standard European put and an American put (assuming it can be exercised only in the last quarter of the option's life).
 
 ## INPUTS AND OUTPUTS
+
+For this project, we have:
 1. **Inputs:** *S* (stock price at time = 0), *X* (strike price), *s* (annual volatility), *t* (maturity), *n* (the number of periods, a multiple of 4), *d* (continuous annualized dividend yield), and *r* (interest rate).
 2. **Output:** Both European put's and Amercian put's value. 
 
