@@ -2,7 +2,7 @@
 
 This is an example of a program that creates a binomial tree to price a standard European put and an American put (assuming it can be exercised only in the last quarter of the option's life).
 
-![demo](/images/demo.gif)
+![demo](/images/gif/demo.gif)
 
 ## Inputs and outputs
 
