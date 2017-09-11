@@ -11,7 +11,7 @@ For this project, we have:
 ## Execution
 In MatLab, just run the given file.
 
-## EXAMPLE
+## Example
 Suppose *S* = 100, *X* = 95, *s* = 0.4, *t* = 1, *n* = 1000, *d* = 0.02, and *r* = 0.06. 
 1. The European option price is about 10.9611.
 2. The American option price is about 11.2128.
